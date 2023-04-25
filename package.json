@@ -1,5 +1,5 @@
 {
-  "name": "quora-clone",
+  "name": "alma-meter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,3 +41,4 @@
     ]
   }
 }
+
