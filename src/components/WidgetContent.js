@@ -20,8 +20,8 @@ function WidgetContent() {
           alt=""
         />
         <div className="widget__contentTitle">
-          <h5>Quota of Quotes</h5>
-          <p>Daily dosage of unforgettable lines from ...</p>
+          <h5>Competitive Programming</h5>
+          <p>Daily questions to solve ...</p>
         </div>
       </div>
       <div className="widget__content">
@@ -30,8 +30,8 @@ function WidgetContent() {
           alt=""
         />
         <div className="widget__contentTitle">
-          <h5>Art & Artist</h5>
-          <p>A Space retated to creating, practicing an...</p>
+          <h5>Electric Vehicles</h5>
+          <p>Design and analysis of Electric Vehicles...</p>
         </div>
       </div>
       <div className="widget__content">
@@ -40,8 +40,8 @@ function WidgetContent() {
           alt=""
         />
         <div className="widget__contentTitle">
-          <h5>Friedrich Nietzche</h5>
-          <p>A Space dedicated to great work of Friedrich...</p>
+          <h5>Albert Einstein</h5>
+          <p>A Space dedicated to great work of Albert...</p>
         </div>
       </div>
       <div className="widget__content">
@@ -51,7 +51,7 @@ function WidgetContent() {
         />
         <div className="widget__contentTitle">
           <h5>Stock Market Strategies</h5>
-          <p>Everything about investing in Stock...</p>
+          <p>Everything about investing in Technology..</p>
         </div>
       </div>
       <div className="widget__content">
@@ -61,7 +61,7 @@ function WidgetContent() {
         />
         <div className="widget__contentTitle">
           <h5>Architecture World</h5>
-          <p>All about civil architecture...</p>
+          <p>All about computers..</p>
         </div>
       </div>
     </div>

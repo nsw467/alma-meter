@@ -70,7 +70,7 @@ function QHeader() {
       </div>
       <div className="qHeader__input">
         <SearchIcon />
-        <input type="text" placeholder="Search Quora" />
+        <input type="text" placeholder="Search Alma Meter" />
       </div>
       <div className="qHeader__Rem">
         <div className="qHeader__avatar">
